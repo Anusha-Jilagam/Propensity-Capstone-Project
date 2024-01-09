@@ -118,7 +118,7 @@ responded
   - And predicted Marketing Decision as 1(yes) or 0 (No) using Best model from hyperparameter tuning.
   - Created a column Marketing Decision using predictions.
 
-**_As the test data is encoded and scaled we cannot get exact idea from these rows, to get exact list of Customers that can be contacted for marketing read the test.csv again into candidates and added the predictions into Marketing Decision Column and displayed all potential customers rows.Exported the potential customers list to new excel file marketing_file._**
+**_As the test data is encoded and scaled we cannot get exact idea from these rows, to get exact list of Customers that can be contacted for marketing, read the test.csv again into candidates and added the predictions into Marketing Decision Column and displayed all potential customers rows.Exported the potential customers list to new excel file marketing_list._**
 
 
 
